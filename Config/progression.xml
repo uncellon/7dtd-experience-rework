@@ -2,7 +2,7 @@
 
 <configs>
 
-<set xpath="/progression/level/@experience_multiplier">1.01</set>
-<set xpath="/progression/level/@clamp_exp_cost_at_level">300</set>
+<set xpath="/progression/level/@experience_multiplier">1.02</set>
+<set xpath="/progression/level/@clamp_exp_cost_at_level">60</set>
 
 </configs>

@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
-    <ModInfo>
-        <Name value="Experience Rework" />
-        <Description value="This mod changes experience system." />
-        <Author value="Uncellon" />
-        <Version value="1.0" />
-    </ModInfo>
+    <Name value="ExperienceRework" />
+	<DisplayName value="Uncellon's Experience Rework Mod" />
+    <Description value="This mod changes experience system." />
+    <Author value="Uncellon" />
+    <Version value="1.0.1" />
 </xml>
